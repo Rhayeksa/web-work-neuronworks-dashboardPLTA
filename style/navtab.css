@@ -1,0 +1,16 @@
+/* .container-navtab {
+    margin: 0px 30px 0px 30px;
+} */
+
+.nav-list {
+    border-radius: 30px;
+    margin: 5px;
+}
+
+.nav-list a {
+    color: white;
+}
+
+.nav-list a:hover {
+    color: white;
+}
