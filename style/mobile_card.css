@@ -1,9 +1,0 @@
-.mobile-margin {
-    margin-bottom: 0px;
-}
-
-@media screen and (max-width: 1080px) {
-    .mobile-margin {
-        margin-bottom: 15px;
-    }
-}
